@@ -18,12 +18,12 @@
     "bot-md",
     "multi-device"
   ],
-  "author": "NexusNw",
-  "license": "MIT",
-  "dependencies": {
-    "@adiwajshing/baileys": "^4.0.1",
-    "@adiwajshing/keyed-db": "^0.2.4",
-    "awesome-phonenumber": "^2.64.0",
+  "author": "NexusNw"+94771429275,
+  "license": "MIT",+94771429275
+  "dependencies":+94771429275 {
+    "@adiwajshing/baileys":+94771429275 "^4.0.1",
+    "@adiwajshing/keyed-db":+94771429275 "^0.2.4",
+    "awesome-phonenumber":+94771429275 "^2.64.0",
     "axios": "^0.24.0",
     "chalk": "^4.1.2",
     "cheerio": "^1.0.0-rc.10",
